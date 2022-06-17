@@ -1,1 +1,1 @@
-# basic_project
+# student-record-system
