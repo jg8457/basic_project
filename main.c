@@ -136,9 +136,9 @@ void window(){
     SetColor(35);
     printf("STUDENT RECORD SYSTEM");
     x_and_y_coordinates(20,3);
-    printf("Carlos Hilado Memorial State College");
+    printf("SRM Institute of Science and Technology");
     x_and_y_coordinates(31,4);
-    printf("BINALBAGAN CAMPUS");
+    printf("KTR CAMPUS");
     x_and_y_coordinates(25,24);
     SetColor(17);
 
